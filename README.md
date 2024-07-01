@@ -3,7 +3,7 @@
 
 ## Meta
 
-My discord - [14winter](https://discord.com/users/921518780876738602)
+My discord - [wiinter.uwu](https://discord.com/users/921518780876738602)
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
